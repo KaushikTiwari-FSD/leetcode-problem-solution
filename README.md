@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0169-majority-element](https://github.com/KaushikTiwari-FSD/leetcode-problem-solution/tree/master/0169-majority-element) |
 | [0704-binary-search](https://github.com/KaushikTiwari-FSD/leetcode-problem-solution/tree/master/0704-binary-search) |
+| [1004-max-consecutive-ones-iii](https://github.com/KaushikTiwari-FSD/leetcode-problem-solution/tree/master/1004-max-consecutive-ones-iii) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/KaushikTiwari-FSD/leetcode-problem-solution/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/KaushikTiwari-FSD/leetcode-problem-solution/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Hash Table
@@ -47,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0704-binary-search](https://github.com/KaushikTiwari-FSD/leetcode-problem-solution/tree/master/0704-binary-search) |
+| [1004-max-consecutive-ones-iii](https://github.com/KaushikTiwari-FSD/leetcode-problem-solution/tree/master/1004-max-consecutive-ones-iii) |
 ## Math
 |  |
 | ------- |
@@ -68,4 +70,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/KaushikTiwari-FSD/leetcode-problem-solution/tree/master/0003-longest-substring-without-repeating-characters) |
+| [1004-max-consecutive-ones-iii](https://github.com/KaushikTiwari-FSD/leetcode-problem-solution/tree/master/1004-max-consecutive-ones-iii) |
+## Prefix Sum
+|  |
+| ------- |
+| [1004-max-consecutive-ones-iii](https://github.com/KaushikTiwari-FSD/leetcode-problem-solution/tree/master/1004-max-consecutive-ones-iii) |
 <!---LeetCode Topics End-->

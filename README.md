@@ -61,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0172-factorial-trailing-zeroes](https://github.com/KaushikTiwari-FSD/leetcode-problem-solution/tree/master/0172-factorial-trailing-zeroes) |
 | [0441-arranging-coins](https://github.com/KaushikTiwari-FSD/leetcode-problem-solution/tree/master/0441-arranging-coins) |
 | [0509-fibonacci-number](https://github.com/KaushikTiwari-FSD/leetcode-problem-solution/tree/master/0509-fibonacci-number) |
+| [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/KaushikTiwari-FSD/leetcode-problem-solution/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [3871-count-commas-in-range-ii](https://github.com/KaushikTiwari-FSD/leetcode-problem-solution/tree/master/3871-count-commas-in-range-ii) |
 ## Dynamic Programming
 |  |

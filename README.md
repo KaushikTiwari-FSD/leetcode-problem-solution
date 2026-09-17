@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/KaushikTiwari-FSD/leetcode-problem-solution/tree/master/0169-majority-element) |
+| [0209-minimum-size-subarray-sum](https://github.com/KaushikTiwari-FSD/leetcode-problem-solution/tree/master/0209-minimum-size-subarray-sum) |
 | [0704-binary-search](https://github.com/KaushikTiwari-FSD/leetcode-problem-solution/tree/master/0704-binary-search) |
 | [1004-max-consecutive-ones-iii](https://github.com/KaushikTiwari-FSD/leetcode-problem-solution/tree/master/1004-max-consecutive-ones-iii) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/KaushikTiwari-FSD/leetcode-problem-solution/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
@@ -52,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/KaushikTiwari-FSD/leetcode-problem-solution/tree/master/0209-minimum-size-subarray-sum) |
 | [0441-arranging-coins](https://github.com/KaushikTiwari-FSD/leetcode-problem-solution/tree/master/0441-arranging-coins) |
 | [0704-binary-search](https://github.com/KaushikTiwari-FSD/leetcode-problem-solution/tree/master/0704-binary-search) |
 | [1004-max-consecutive-ones-iii](https://github.com/KaushikTiwari-FSD/leetcode-problem-solution/tree/master/1004-max-consecutive-ones-iii) |
@@ -79,10 +81,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/KaushikTiwari-FSD/leetcode-problem-solution/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0209-minimum-size-subarray-sum](https://github.com/KaushikTiwari-FSD/leetcode-problem-solution/tree/master/0209-minimum-size-subarray-sum) |
 | [1004-max-consecutive-ones-iii](https://github.com/KaushikTiwari-FSD/leetcode-problem-solution/tree/master/1004-max-consecutive-ones-iii) |
 ## Prefix Sum
 |  |
 | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/KaushikTiwari-FSD/leetcode-problem-solution/tree/master/0209-minimum-size-subarray-sum) |
 | [1004-max-consecutive-ones-iii](https://github.com/KaushikTiwari-FSD/leetcode-problem-solution/tree/master/1004-max-consecutive-ones-iii) |
 ## Counting Sort
 |  |

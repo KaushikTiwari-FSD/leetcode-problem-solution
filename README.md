@@ -65,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0441-arranging-coins](https://github.com/KaushikTiwari-FSD/leetcode-problem-solution/tree/master/0441-arranging-coins) |
 | [0509-fibonacci-number](https://github.com/KaushikTiwari-FSD/leetcode-problem-solution/tree/master/0509-fibonacci-number) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/KaushikTiwari-FSD/leetcode-problem-solution/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
+| [1401-circle-and-rectangle-overlapping](https://github.com/KaushikTiwari-FSD/leetcode-problem-solution/tree/master/1401-circle-and-rectangle-overlapping) |
 | [3871-count-commas-in-range-ii](https://github.com/KaushikTiwari-FSD/leetcode-problem-solution/tree/master/3871-count-commas-in-range-ii) |
 ## Dynamic Programming
 |  |
@@ -94,4 +95,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/KaushikTiwari-FSD/leetcode-problem-solution/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+## Geometry
+|  |
+| ------- |
+| [1401-circle-and-rectangle-overlapping](https://github.com/KaushikTiwari-FSD/leetcode-problem-solution/tree/master/1401-circle-and-rectangle-overlapping) |
 <!---LeetCode Topics End-->

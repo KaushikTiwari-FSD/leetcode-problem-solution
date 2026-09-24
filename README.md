@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0035-search-insert-position](https://github.com/KaushikTiwari-FSD/leetcode-problem-solution/tree/master/0035-search-insert-position) |
 | [0169-majority-element](https://github.com/KaushikTiwari-FSD/leetcode-problem-solution/tree/master/0169-majority-element) |
 | [0209-minimum-size-subarray-sum](https://github.com/KaushikTiwari-FSD/leetcode-problem-solution/tree/master/0209-minimum-size-subarray-sum) |
 | [0303-range-sum-query-immutable](https://github.com/KaushikTiwari-FSD/leetcode-problem-solution/tree/master/0303-range-sum-query-immutable) |
@@ -60,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0035-search-insert-position](https://github.com/KaushikTiwari-FSD/leetcode-problem-solution/tree/master/0035-search-insert-position) |
 | [0209-minimum-size-subarray-sum](https://github.com/KaushikTiwari-FSD/leetcode-problem-solution/tree/master/0209-minimum-size-subarray-sum) |
 | [0441-arranging-coins](https://github.com/KaushikTiwari-FSD/leetcode-problem-solution/tree/master/0441-arranging-coins) |
 | [0704-binary-search](https://github.com/KaushikTiwari-FSD/leetcode-problem-solution/tree/master/0704-binary-search) |

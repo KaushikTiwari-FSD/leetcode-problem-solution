@@ -82,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/KaushikTiwari-FSD/leetcode-problem-solution/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1401-circle-and-rectangle-overlapping](https://github.com/KaushikTiwari-FSD/leetcode-problem-solution/tree/master/1401-circle-and-rectangle-overlapping) |
 | [2427-number-of-common-factors](https://github.com/KaushikTiwari-FSD/leetcode-problem-solution/tree/master/2427-number-of-common-factors) |
+| [2520-count-the-digits-that-divide-a-number](https://github.com/KaushikTiwari-FSD/leetcode-problem-solution/tree/master/2520-count-the-digits-that-divide-a-number) |
 | [3871-count-commas-in-range-ii](https://github.com/KaushikTiwari-FSD/leetcode-problem-solution/tree/master/3871-count-commas-in-range-ii) |
 ## Dynamic Programming
 |  |

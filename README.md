@@ -85,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2427-number-of-common-factors](https://github.com/KaushikTiwari-FSD/leetcode-problem-solution/tree/master/2427-number-of-common-factors) |
 | [2520-count-the-digits-that-divide-a-number](https://github.com/KaushikTiwari-FSD/leetcode-problem-solution/tree/master/2520-count-the-digits-that-divide-a-number) |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/KaushikTiwari-FSD/leetcode-problem-solution/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
+| [2544-alternating-digit-sum](https://github.com/KaushikTiwari-FSD/leetcode-problem-solution/tree/master/2544-alternating-digit-sum) |
 | [2652-sum-multiples](https://github.com/KaushikTiwari-FSD/leetcode-problem-solution/tree/master/2652-sum-multiples) |
 | [3871-count-commas-in-range-ii](https://github.com/KaushikTiwari-FSD/leetcode-problem-solution/tree/master/3871-count-commas-in-range-ii) |
 ## Dynamic Programming

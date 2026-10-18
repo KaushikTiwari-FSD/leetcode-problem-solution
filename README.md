@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0704-binary-search](https://github.com/KaushikTiwari-FSD/leetcode-problem-solution/tree/master/0704-binary-search) |
 | [0724-find-pivot-index](https://github.com/KaushikTiwari-FSD/leetcode-problem-solution/tree/master/0724-find-pivot-index) |
 | [1004-max-consecutive-ones-iii](https://github.com/KaushikTiwari-FSD/leetcode-problem-solution/tree/master/1004-max-consecutive-ones-iii) |
+| [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/KaushikTiwari-FSD/leetcode-problem-solution/tree/master/1299-replace-elements-with-greatest-element-on-right-side) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/KaushikTiwari-FSD/leetcode-problem-solution/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/KaushikTiwari-FSD/leetcode-problem-solution/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1470-shuffle-the-array](https://github.com/KaushikTiwari-FSD/leetcode-problem-solution/tree/master/1470-shuffle-the-array) |

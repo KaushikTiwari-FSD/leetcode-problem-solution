@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/KaushikTiwari-FSD/leetcode-problem-solution/tree/master/0035-search-insert-position) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/KaushikTiwari-FSD/leetcode-problem-solution/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0169-majority-element](https://github.com/KaushikTiwari-FSD/leetcode-problem-solution/tree/master/0169-majority-element) |
 | [0209-minimum-size-subarray-sum](https://github.com/KaushikTiwari-FSD/leetcode-problem-solution/tree/master/0209-minimum-size-subarray-sum) |
 | [0303-range-sum-query-immutable](https://github.com/KaushikTiwari-FSD/leetcode-problem-solution/tree/master/0303-range-sum-query-immutable) |
@@ -97,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/KaushikTiwari-FSD/leetcode-problem-solution/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0509-fibonacci-number](https://github.com/KaushikTiwari-FSD/leetcode-problem-solution/tree/master/0509-fibonacci-number) |
 ## Recursion
 |  |

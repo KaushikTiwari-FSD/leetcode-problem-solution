@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0303-range-sum-query-immutable](https://github.com/KaushikTiwari-FSD/leetcode-problem-solution/tree/master/0303-range-sum-query-immutable) |
 | [0704-binary-search](https://github.com/KaushikTiwari-FSD/leetcode-problem-solution/tree/master/0704-binary-search) |
 | [0724-find-pivot-index](https://github.com/KaushikTiwari-FSD/leetcode-problem-solution/tree/master/0724-find-pivot-index) |
+| [0977-squares-of-a-sorted-array](https://github.com/KaushikTiwari-FSD/leetcode-problem-solution/tree/master/0977-squares-of-a-sorted-array) |
 | [1004-max-consecutive-ones-iii](https://github.com/KaushikTiwari-FSD/leetcode-problem-solution/tree/master/1004-max-consecutive-ones-iii) |
 | [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/KaushikTiwari-FSD/leetcode-problem-solution/tree/master/1299-replace-elements-with-greatest-element-on-right-side) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/KaushikTiwari-FSD/leetcode-problem-solution/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
@@ -40,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/KaushikTiwari-FSD/leetcode-problem-solution/tree/master/0169-majority-element) |
+| [0977-squares-of-a-sorted-array](https://github.com/KaushikTiwari-FSD/leetcode-problem-solution/tree/master/0977-squares-of-a-sorted-array) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/KaushikTiwari-FSD/leetcode-problem-solution/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 ## Counting
 |  |
@@ -52,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0977-squares-of-a-sorted-array](https://github.com/KaushikTiwari-FSD/leetcode-problem-solution/tree/master/0977-squares-of-a-sorted-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/KaushikTiwari-FSD/leetcode-problem-solution/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Simulation
 |  |

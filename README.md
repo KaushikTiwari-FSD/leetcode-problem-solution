@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0303-range-sum-query-immutable](https://github.com/KaushikTiwari-FSD/leetcode-problem-solution/tree/master/0303-range-sum-query-immutable) |
 | [0704-binary-search](https://github.com/KaushikTiwari-FSD/leetcode-problem-solution/tree/master/0704-binary-search) |
 | [0724-find-pivot-index](https://github.com/KaushikTiwari-FSD/leetcode-problem-solution/tree/master/0724-find-pivot-index) |
+| [0832-flipping-an-image](https://github.com/KaushikTiwari-FSD/leetcode-problem-solution/tree/master/0832-flipping-an-image) |
 | [0977-squares-of-a-sorted-array](https://github.com/KaushikTiwari-FSD/leetcode-problem-solution/tree/master/0977-squares-of-a-sorted-array) |
 | [1004-max-consecutive-ones-iii](https://github.com/KaushikTiwari-FSD/leetcode-problem-solution/tree/master/1004-max-consecutive-ones-iii) |
 | [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/KaushikTiwari-FSD/leetcode-problem-solution/tree/master/1299-replace-elements-with-greatest-element-on-right-side) |
@@ -54,11 +55,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0832-flipping-an-image](https://github.com/KaushikTiwari-FSD/leetcode-problem-solution/tree/master/0832-flipping-an-image) |
 | [0977-squares-of-a-sorted-array](https://github.com/KaushikTiwari-FSD/leetcode-problem-solution/tree/master/0977-squares-of-a-sorted-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/KaushikTiwari-FSD/leetcode-problem-solution/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Simulation
 |  |
 | ------- |
+| [0832-flipping-an-image](https://github.com/KaushikTiwari-FSD/leetcode-problem-solution/tree/master/0832-flipping-an-image) |
 | [1920-build-array-from-permutation](https://github.com/KaushikTiwari-FSD/leetcode-problem-solution/tree/master/1920-build-array-from-permutation) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/KaushikTiwari-FSD/leetcode-problem-solution/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/KaushikTiwari-FSD/leetcode-problem-solution/tree/master/2149-rearrange-array-elements-by-sign) |
@@ -155,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0832-flipping-an-image](https://github.com/KaushikTiwari-FSD/leetcode-problem-solution/tree/master/0832-flipping-an-image) |
 | [1672-richest-customer-wealth](https://github.com/KaushikTiwari-FSD/leetcode-problem-solution/tree/master/1672-richest-customer-wealth) |
 ## Bracket Sequences
 |  |
@@ -176,4 +180,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2427-number-of-common-factors](https://github.com/KaushikTiwari-FSD/leetcode-problem-solution/tree/master/2427-number-of-common-factors) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0832-flipping-an-image](https://github.com/KaushikTiwari-FSD/leetcode-problem-solution/tree/master/0832-flipping-an-image) |
 <!---LeetCode Topics End-->

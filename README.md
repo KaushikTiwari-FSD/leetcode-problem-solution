@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1480-running-sum-of-1d-array](https://github.com/KaushikTiwari-FSD/leetcode-problem-solution/tree/master/1480-running-sum-of-1d-array) |
 | [1572-matrix-diagonal-sum](https://github.com/KaushikTiwari-FSD/leetcode-problem-solution/tree/master/1572-matrix-diagonal-sum) |
 | [1672-richest-customer-wealth](https://github.com/KaushikTiwari-FSD/leetcode-problem-solution/tree/master/1672-richest-customer-wealth) |
+| [1822-sign-of-the-product-of-an-array](https://github.com/KaushikTiwari-FSD/leetcode-problem-solution/tree/master/1822-sign-of-the-product-of-an-array) |
 | [1920-build-array-from-permutation](https://github.com/KaushikTiwari-FSD/leetcode-problem-solution/tree/master/1920-build-array-from-permutation) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/KaushikTiwari-FSD/leetcode-problem-solution/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/KaushikTiwari-FSD/leetcode-problem-solution/tree/master/2149-rearrange-array-elements-by-sign) |
@@ -96,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/KaushikTiwari-FSD/leetcode-problem-solution/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1401-circle-and-rectangle-overlapping](https://github.com/KaushikTiwari-FSD/leetcode-problem-solution/tree/master/1401-circle-and-rectangle-overlapping) |
 | [1812-determine-color-of-a-chessboard-square](https://github.com/KaushikTiwari-FSD/leetcode-problem-solution/tree/master/1812-determine-color-of-a-chessboard-square) |
+| [1822-sign-of-the-product-of-an-array](https://github.com/KaushikTiwari-FSD/leetcode-problem-solution/tree/master/1822-sign-of-the-product-of-an-array) |
 | [2427-number-of-common-factors](https://github.com/KaushikTiwari-FSD/leetcode-problem-solution/tree/master/2427-number-of-common-factors) |
 | [2520-count-the-digits-that-divide-a-number](https://github.com/KaushikTiwari-FSD/leetcode-problem-solution/tree/master/2520-count-the-digits-that-divide-a-number) |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/KaushikTiwari-FSD/leetcode-problem-solution/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |

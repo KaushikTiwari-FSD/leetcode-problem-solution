@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/KaushikTiwari-FSD/leetcode-problem-solution/tree/master/0169-majority-element) |
+| [1704-determine-if-string-halves-are-alike](https://github.com/KaushikTiwari-FSD/leetcode-problem-solution/tree/master/1704-determine-if-string-halves-are-alike) |
 ## Boyer–Moore Majority Vote Algorithm
 |  |
 | ------- |
@@ -76,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0796-rotate-string](https://github.com/KaushikTiwari-FSD/leetcode-problem-solution/tree/master/0796-rotate-string) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/KaushikTiwari-FSD/leetcode-problem-solution/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/KaushikTiwari-FSD/leetcode-problem-solution/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
+| [1704-determine-if-string-halves-are-alike](https://github.com/KaushikTiwari-FSD/leetcode-problem-solution/tree/master/1704-determine-if-string-halves-are-alike) |
 | [1812-determine-color-of-a-chessboard-square](https://github.com/KaushikTiwari-FSD/leetcode-problem-solution/tree/master/1812-determine-color-of-a-chessboard-square) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/KaushikTiwari-FSD/leetcode-problem-solution/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/KaushikTiwari-FSD/leetcode-problem-solution/tree/master/2011-final-value-of-variable-after-performing-operations) |
